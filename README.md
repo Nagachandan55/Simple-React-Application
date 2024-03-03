@@ -1,5 +1,7 @@
 # Simple-React-Application
 
+This is a React Application, showcasing the common patterns in the applications, like sorting, pagination, searching, rendering
+
 Follow these steps for Execution of code
 ### clone the repository
 `git clone https://github.com/Nagachandan55/Simple-React-Application.git`
